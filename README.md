@@ -1,1 +1,2 @@
 # support-ticket
+Ce projet "support-ticket" est une application web permettant aux utilisateurs de soumettre des tickets de support, de suivre leur statut et d’administrer les demandes. Il facilite la gestion des requêtes clients et l’organisation du support technique.
